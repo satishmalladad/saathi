@@ -3,7 +3,7 @@
    ═══════════════════════════════════════════════════ */
 'use strict';
 
-const API  = 'http://localhost:3001/api';
+const API = '/api';
 const TK   = 'saathi_token';
 const UK   = 'saathi_user';
 
