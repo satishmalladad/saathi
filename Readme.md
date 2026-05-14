@@ -147,10 +147,5 @@ Answer with page citations
 
 ---
 
-## License
-
-MIT — free to use, modify and distribute.
-
----
 
 *Saathi means "companion" in Hindi.*
