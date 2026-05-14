@@ -1,5 +1,7 @@
 node_modules/
 .env
+.env.production
+.env.example
 backend/uploads/*
 backend/data/users.json
 backend/data/store.json
