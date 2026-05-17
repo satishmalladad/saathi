@@ -62,7 +62,7 @@ cd saathi/backend
 npm install
 
 # 3. Create your .env file
-cp .env.example .env
+.env #add the GROQ_API_KEY ,JWT_SECRET
 ```
 
 ### Configure .env
