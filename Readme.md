@@ -55,7 +55,7 @@ Saathi is an AI-powered document intelligence platform that transforms how you i
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOURUSERNAME/saathi.git
+git clone https://github.com/satishnm0204/saathi.git
 cd saathi/backend
 
 # 2. Install dependencies
